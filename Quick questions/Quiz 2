@@ -1,0 +1,25 @@
+88#**QUIZ 2**
+
+**Ví dụ 1: **
+Dự đoán giá số tiền bảo hiểm chi trả cho một người nào đó, dựa vào tập dữ liệu hóa đơn chi trả của công ty bảo hiểm 
+
+  - Input: Độ tuổi, giới tính, BMI( thể trạng ), tôn giáo, hút thuốc hay không.
+  - Output: Số tiền mà bảo hiểm sẽ chi trả cho người đó
+  
+**Ví dụ 2: **
+Dự đoán năng lượng tiêu thụ của một nhà máy
+
+  - Input: chênh lệch nhiệt độ, độ ẩm, lượng khí thải so với 1 giờ trước đó.
+  - Output: Công suất tiêu thụ điện của giờ tiếp theo
+  
+**Ví dụ 3: **
+Dự đoán lượng mưa của ngày tiếp theo của thành phố HCM
+
+  - Input: Nhiệt độ, độ ẩm của 10 ngày trước đó
+  - Output:  Tổng lượng mưa của ngày tiếp theo
+  
+**Ví dụ 4: **
+Dự đoán sản lượng lúa thu hoạch được trong mùa vụ dựa vào dữ liệu của các mùa vụ trước
+
+   - Input: Lượng phân bón, nhiệt độ, độ ẩm, lượng mưa của các mùa vụ trước
+   - Output: Sản lượng lúa của mùa vụ sắp tới
